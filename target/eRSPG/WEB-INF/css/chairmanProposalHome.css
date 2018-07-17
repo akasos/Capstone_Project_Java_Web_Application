@@ -1,0 +1,20 @@
+th:hover {
+    cursor: pointer;
+}
+
+#myModal {
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+
+#proposals-btn {
+    width: 90%;
+    margin: 0 auto;
+    padding-left: 0px;
+    padding-right: 0px;
+}

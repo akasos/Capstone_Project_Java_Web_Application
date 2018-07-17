@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="eRSPG:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="eRSPG.war">
+      <element id="artifact" artifact-name="eRSPG:war exploded" />
+    </root>
+  </artifact>
+</component>

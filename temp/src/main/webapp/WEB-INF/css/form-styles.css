@@ -1,0 +1,21 @@
+form.labels-no-bold label {
+    font-weight: normal;
+}
+
+form.tall-textarea textarea {
+    height: 200px;
+}
+
+form textarea.missing-error {
+    border: solid 2px #f00;
+}
+
+form .required-field::after {
+    color: #f00;
+    content: " *";
+}
+
+.form-error {
+    color: #f00;
+    margin-left: 30%;
+}
